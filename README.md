@@ -32,6 +32,7 @@ Go to kaggle and copy the API Command to download the dataset
 for doing above, go to the dataset which you want to download, click on 3 dot which is beside new notebook and click Copy API command
 
 after that in colab type following code(Remember using ! at the start of API command):-
+
        !kaggle datasets download -d alessiocorrado99/animals10
 
 check the content by using !ls command

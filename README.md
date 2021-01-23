@@ -3,7 +3,7 @@ Pick Kaggle Datasets into Google Colab.
 Prerequisite:-
 Kaggle Account, Google/Colab acount.
 
-# Step 1:Kaggle API Token
+# Step 1: Kaggle API Token
 Go to Your Kaggle Account after scrolling down, click on Create New API Token.
 A file named kaggle.json will get downloaded containing your username and token key.
 
